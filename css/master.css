@@ -1,0 +1,61 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.border-bt-gray{
+  border-bottom: 1px solid #C9C9C9;
+}
+th > h4{
+  font-size: 28px;
+}
+
+th > span{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+td > h4{
+  font-size: 18px;
+}
+
+td > h5{
+  font-size: 16px;
+}
+
+td > h6{
+  font-size: 16px;
+}
+
+td > h6 > b{
+  color: #069;
+  text-indent: 14px;
+  font-weight: normal;
+  font-size: 13px;
+}
+
+td > h6.title-gray{
+  color:#797F8B;
+}
+a{
+  color:#069;
+}
+th > h4,
+td > h4,
+td > h5,
+td > h6{
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
+
+td{
+  padding: 10px 32px;
+}
+
+td > ul{
+  padding: 0;
+  list-style: none;
+}
+
+td > ul > li{
+  line-height: 1.7em;
+  list-style: none;
+}
